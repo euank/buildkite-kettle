@@ -1,0 +1,6 @@
+/bin
+/.envrc
+.terraform
+*.tfstate
+*.tfstate.backup
+/deploy
